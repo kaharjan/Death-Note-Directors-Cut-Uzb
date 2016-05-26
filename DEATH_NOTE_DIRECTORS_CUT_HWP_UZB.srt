@@ -1,110 +1,110 @@
 1
 00:00:00,000 --> 00:00:05,000
-Перевод IRusty.
+Lukretsiy tarjimasi.
 
 2
 00:00:00,000 --> 00:00:05,000
-Тайминг IRusty.
+IRusty taymingi.
 
 3
 00:00:13,640 --> 00:00:18,440
-Что ты сказал? Ты хочешь увидеться с ним?
+Nima deding? U bilan koʻrishmoqchisan?
 
 4
 00:00:18,650 --> 00:00:19,240
-Да.
+Ha.
 
 5
 00:00:19,950 --> 00:00:20,540
-Почему?
+Nega?
 
 6
 00:00:22,150 --> 00:00:24,710
-Нахрена он тебе нужен?
+Senga u nima keragi bor?
 
 7
 00:00:24,750 --> 00:00:27,550
-Да, не парься ты.
+Borib ishingni qilsangchi.
 
 8
 00:00:27,660 --> 00:00:29,450
-Выкладывай.
+Gapirlaring!
 
 9
 00:00:29,760 --> 00:00:32,160
-Я слышал он сдесь.
+U bu yerda ekanligini eshitdim.
 
 10
 00:00:32,460 --> 00:00:36,020
-Бог смерти, который спускался
-в мир людей.
+Insonlar oldiga tushgan 
+Oʻlim xudosi.
 
 11
 00:01:17,240 --> 00:01:18,830
-Кто ты?
+Kimsan?
 
 12
 00:01:18,940 --> 00:01:21,310
-Я пришёл повидаться с тобой.
+Sen bilan koʻrishishga keldim.
 
 13
 00:01:21,340 --> 00:01:23,610
-У меня к тебе есть вопросы.
+Senga bir-ikkita savollarim bor.
 
 14
 00:01:23,650 --> 00:01:24,700
-Вопросы?
+Savollaring?
 
 15
 00:01:24,750 --> 00:01:28,650
-Это плата за твоё время.
+Mana bu sening vaqting uchun toʻlovim.
 
 16
 00:01:34,160 --> 00:01:37,150
-Я предпочитаю из мира людей,
-но и это сойдет.
+Menga koʻproq insonlar dunyosidan yoqadi,
+lekin bu ham boʻlaveradi.
 
 17
 00:01:42,060 --> 00:01:47,730
-Я хочу спуститься в мир людей.
-Я устал от этого вялого мира.
+Men insonlar dunyosiga tushgim kelayapti.
+Bu zerikarli dunyodan charchadim.
 
 18
 00:01:47,770 --> 00:01:51,970
-Я слышал, что человеческий
-мир интересен.
+Eshitimcha, insonlar dunyosi 
+juda qiziqarli ekan.
 
 19
 00:01:55,880 --> 00:02:00,280
-Скучно ржать над людьми
-в этом убогом месте.
+Bu yerdan turib odamlar ustidan kulish
+qiziq emas.
 
 20
 00:02:00,320 --> 00:02:06,910
-Но паренёк, который пытался изменить
-мир был довольно интересным.
+Lekin... dunyoni oʻzgartirmoqchi boʻlgan
+yigitcha qiziq edi.
 
 21
 00:02:08,820 --> 00:02:11,620
-Как бы то ни было, сейчас мне скучно.
+Nima boʻlsa ham, hozir juda zerikayapman.
 
 22
 00:02:12,330 --> 00:02:15,090
-Я расскажу тебе об этом.
+Bu haqda senga aytib beraman.
 
 23
 00:02:15,130 --> 00:02:17,790
-За яблоко.
+Olma uchun.
 
 24
 00:02:17,830 --> 00:02:21,700
-Верно, эта история
-о человеке,
+Toʻgʻri, bu hikoya dunyoni 
+oʻzgartirmoqchi boʻlgan
 
 25
 00:02:21,740 --> 00:02:27,230
-который пытался изменить
-мир и стать богом.
+va xudo boʻlgisi kelib qolgan
+odam haqida.
 
 26
 00:02:31,450 --> 00:02:33,850
